@@ -1,5 +1,5 @@
 # Crop-Connect
-An AI Model made in 2024 which won us the AI innovator accelerator
+An AI Plant Healthy/Unhealthy Classifier Model made in 2024 which won us(Team Cropify) the AI innovator accelerator 2024-25 held by IBM in collaboration with 1M1B
 
 To Use:
 just enter the image path in the untitled jupyter notebook instead of OIP.jpg and have the image stored in the directory
